@@ -1,7 +1,7 @@
 # Data Engineer Journey
 
 This repository documents my journey from absolute beginner
-to professional, industry-ready Data Engineer in New York.
+to world class Data Engineer in New York.
 
 This is a hands-on, project-driven path focused on building
 real data systems — not just learning theory.
